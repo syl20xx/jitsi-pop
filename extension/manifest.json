@@ -27,7 +27,7 @@
         "https://meet.jit.si/*",
         "https://8x8.vc/*",
         "https://jitsi.riot.im/*",
-        "https://rdv.onera.fr*"
+        "https://rdv.onera.fr/*"
       ],
       "run_at": "document_start",
       "match_about_blank": true,
@@ -40,7 +40,7 @@
       "https://jip-hop.github.io/jitsi-pop/*",
       "https://jitsipop.debeer.it/*",
       "https://jitsipop.tk/*",
-      "https://rdv.onera.fr*"
+      "https://rdv.onera.fr/*"
     ]
   }
 }
