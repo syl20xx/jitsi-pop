@@ -3,6 +3,7 @@ window.servers = [
   "meet.jit.si",
   "8x8.vc",
   "jitsi.riot.im",
+  "rdv.onera.fr",
 ];
 
 import { options } from "./jitsiConfig.js";
