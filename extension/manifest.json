@@ -38,7 +38,8 @@
     "matches": [
       "https://jip-hop.github.io/jitsi-pop/*",
       "https://jitsipop.debeer.it/*",
-      "https://jitsipop.tk/*"
+      "https://jitsipop.tk/*",
+      "https://rdv.onera.fr*"
     ]
   }
 }
