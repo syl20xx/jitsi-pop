@@ -26,7 +26,8 @@
       "matches": [
         "https://meet.jit.si/*",
         "https://8x8.vc/*",
-        "https://jitsi.riot.im/*"
+        "https://jitsi.riot.im/*",
+        "https://rdv.onera.fr*"
       ],
       "run_at": "document_start",
       "match_about_blank": true,
